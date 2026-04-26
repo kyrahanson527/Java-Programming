@@ -1,4 +1,5 @@
 Kyra Hanson - Grade Calculator Program
+
 How to Run Program: 
 1. Open IDE like Visual Studio
 2. Open GradeCalculator.java in VS
